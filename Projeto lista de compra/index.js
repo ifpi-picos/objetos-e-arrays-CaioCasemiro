@@ -88,7 +88,7 @@ function programa(){
 
             default:
                 console.log('Opção inválida, escolha uma opção válida')
-        }
+        } 
     } while (escolha !== '7')
 }
 
