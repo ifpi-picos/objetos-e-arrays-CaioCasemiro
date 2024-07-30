@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')() 
+
 
 let listadefilmes = []
 let filmesassisidos = []
